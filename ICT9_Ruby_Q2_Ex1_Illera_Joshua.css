@@ -1,0 +1,25 @@
+body {background-color: steelblue;}
+
+#eagle {
+	background-color: black;
+	color:white;
+	margin:30px;
+	padding:20px;
+	text-align:center;
+	border:thick dashed;
+
+}
+
+
+
+#subject{
+	color:black;
+	text-align:center;
+}
+
+
+
+#agila{
+
+	text-align:center;
+}
